@@ -1,10 +1,10 @@
-# 🧮 Calculatrice Console Java
+#  Calculatrice Console Java
 
-## 📋 Description
+##  Description
 Une calculatrice en ligne de commande développée en Java.
 Projet 1 — Formation Java (Débutant → Intermédiaire)
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 - Addition
 - Soustraction
 - Division (avec gestion division par zéro)
@@ -16,7 +16,7 @@ Projet 1 — Formation Java (Débutant → Intermédiaire)
 - Java
 - Scanner (saisie utilisateur)
 
-## ▶️ Lancer le projet
+##  Lancer le projet
 ```bash
 javac src/Main.java
 java -cp src Main
